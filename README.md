@@ -1,24 +1,24 @@
 # AWS VPC Peering Project
 
- ## 📝 This project demonstrates how to create VPC Peering between two VPCs in AWS and enable private communication between EC2 instances.
+### 📝 This project demonstrates how to create VPC Peering between two VPCs in AWS and enable private communication between EC2 instances.
 
-## ✅  Project Includes
+ ## ✅  Project Includes
 
-• Two VPCs (Test & Prod)
+ • Two VPCs (Test & Prod)
 
-• Custom CIDR ranges
+ • Custom CIDR ranges
 
-• Public subnets
+ • Public subnets
 
-• Internet Gateway
+ • Internet Gateway
 
-• Route Tables configuration
+ • Route Tables configuration
 
-• VPC Peering connection
+ • VPC Peering connection
 
-• Security Group rules for ping & SSH
+ • Security Group rules for ping & SSH
 
-• Successful connectivity testing
+ • Successful connectivity testing
 
 
 ## 📌 Steps Performed:
