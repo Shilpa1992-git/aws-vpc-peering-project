@@ -22,10 +22,9 @@
 
 
 ## 📌 Steps Performed:
-
 1. Created two VPCs 
 
-2.  Launched EC2 instances in each VPC
+2. Launched EC2 instances in each VPC
 
 3. Configured route tables
 
