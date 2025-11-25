@@ -35,11 +35,10 @@
 6. Verified ping & SSH communication
 
 ## 🖼 Screenshots
-
 All setup screenshots are available in the screenshots folder.
 
-## 🔧AWS Services Used
 
+## 🔧AWS Services Used
 • VPC
 
 • Subnets
